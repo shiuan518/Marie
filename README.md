@@ -13,3 +13,7 @@ window.onload = function()
       // console.log("window loaded")
     };
  ```
+按鈕
+ ```
+<button onclick="showme()">點我</button>
+ ```
