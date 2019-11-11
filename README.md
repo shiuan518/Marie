@@ -8,3 +8,8 @@
  ```
  一開視窗就執行
  ```
+window.onload = function() 
+    {
+      // console.log("window loaded")
+    };
+ ```
